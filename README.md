@@ -1,7 +1,7 @@
 # Hospitality Revenue Analysis Project
 
 ## Overview
-This project presents a comprehensive revenue analysis for Atliq Grands, a luxury hotel chain. The analysis is conducted using Microsoft Power BI, providing interactive visualizations and insights into key performance metrics in the hospitality domain.
+This project presents a comprehensive revenue analysis for a luxury hotel chain. The analysis is conducted using Microsoft Power BI, providing interactive visualizations and insights into key performance metrics in the hospitality domain.
 
 ## Data Visualization
 The Power BI dashboard includes several key components:
